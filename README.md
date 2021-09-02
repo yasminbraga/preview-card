@@ -13,7 +13,8 @@ O desafio consiste na construção de um card de informações responsivo.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/preview-card-made-with-html-and-css-IY_Zf5mmV)
+- Live Site URL: [Add live site URL here](https://nervous-hoover-c5a862.netlify.app/)
 
 ## Conceitos trabalhados
 
